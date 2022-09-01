@@ -8,7 +8,7 @@ However, since this is not always possible, we made our best effort to also adap
 
 The full system architecture looks like this (in its second version -> see previous Tag for older versions): 
 
-![](multistage_retrieval_v2.png)
+![](imgs/multistage_retrieval_v2.png)
 
 ## Installation 
 
@@ -40,7 +40,7 @@ From this point on, we offer the possibility to utilise **Google Colab**. This t
 
 In TREC Healt Misinfo 2019, 2020 and 2021 editions, organisers always provided the answer to the topics. However, this wasn't very realistic. This could just model the job of a moderator of a website or social media. However, in 2022, they asked to **predict** the answer. This is more realistic and supports better the use case of a end-user trying to search for info online.
 
-To do so, we implemented to strategies: asking a generative model like **GPT-3** and analysing the answer or extracting the knowledge from the search engines, in this case from the top 1 result.
+To do so, we implemented two strategies: asking a generative model like **GPT-3** and analysing the answer or extracting the knowledge from the search engines, in this case from the top 1 result.
 
 #### Cleaning stages
 
@@ -56,7 +56,7 @@ This notebook gives support for fine tuning a T5-base model to classify passages
 
 <a href="https://colab.research.google.com/drive/1N84trSsBtbkvA7PHS1DF1aDB1w2gheEl"><img alt="Open In Colab" src="https://colab.research.google.com/assets/colab-badge.svg?style=flat-square"></a>
 
-![](T5_training.png)
+![](imgs/T5_training.png)
 
 ### Unsupervised
 
@@ -64,7 +64,7 @@ This notebook implements an unsupervised approach for estimating passage reliabi
 
 <a href="https://colab.research.google.com/drive/1kzSH_DQQn_gbfIA3ybzynHfgMwT_WC5-"><img alt="Open In Colab" src="https://colab.research.google.com/assets/colab-badge.svg?style=flat-square"></a>
 
-![](Unsupervised.png)
+![](imgs/Unsupervised.png)
 
 
 ## Quality estimators
@@ -100,6 +100,8 @@ The following is an indication of how, using this repository, the PAS_REL run de
 
 To any existing issue, contact me at marcosfernandez.pichel@usc.es.
 
+**Main contribution**:
+
 ```
 @article{health-misinfo-pipeline,
 title = {A multistage retrieval system for health-related misinformation detection},
@@ -112,5 +114,24 @@ doi = {https://doi.org/10.1016/j.engappai.2022.105211},
 url = {https://www.sciencedirect.com/science/article/pii/S0952197622002950},
 author = {Marcos Fernández-Pichel and David E. Losada and Juan C. Pichel}
 }
+```
+
+TREC participations:
+
+```
+@inproceedings{citius-trec-2020,
+	title = {{CiTIUS} at the {TREC 2020 Health Misinformation Track}},
+	booktitle = {The Twenty-Ninth Text REtrieval Conference Proceedings (TREC 2020), NIST Special Publication 1266},
+	year = {2020},
+	author = {Marcos Fern\'{a}ndez-Pichel and David E. Losada and Juan C. Pichel and David Elsweiler}
+}
+
+@inproceedings{citius-trec-2021,
+	title = {{CiTIUS} at the {TREC 2021 Health Misinformation Track}},
+	booktitle = {The Thirtieth Text REtrieval Conference Proceedings (TREC 2021), NIST Special Publication 500-335},
+	year = {2021},
+	author = {Marcos Fern\'{a}ndez-Pichel and Manuel Prada-Corral and David E. Losada and Juan C. Pichel and Pablo Gamallo}
+}
+
 ```
 
