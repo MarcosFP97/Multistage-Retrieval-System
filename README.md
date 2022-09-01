@@ -1,5 +1,6 @@
-
+<p align="center">
 ![](imgs/logo.png)
+</p>
 
 In this repo, we present a multistage retrieval system for health misinformation detection. 
 
