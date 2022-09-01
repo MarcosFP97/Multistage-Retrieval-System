@@ -6,7 +6,7 @@ The different stages can be run separately or as inputs to each other. Indexing 
 
 However, since this is not always possible, we made our best effort to also adapt the more consuming stages to the **Google Colab** tool.
 
-The full system architecture looks like this (in its second version -> see previous Tag for older versions): 
+The full system architecture looks like this: 
 
 ![](imgs/multistage_retrieval_v2.png)
 
