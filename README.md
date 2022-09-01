@@ -135,3 +135,4 @@ TREC participations:
 
 ```
 
+You can also find this project in **Gitlab**: https://gitlab.citius.usc.es/marcos.fernandez.pichel/health-misinformation-detection-pipeline 
