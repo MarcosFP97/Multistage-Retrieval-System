@@ -1,0 +1,6 @@
+Top 1 -> 31/50 aciertos
+Top 2 -> 31/50 aciertos
+Top 3 -> 31/50 aciertos
+Top 4 -> 30/50 aciertos
+Top 5 -> 28/50 aciertos
+AVG Top 5 -> 30/50 aciertos

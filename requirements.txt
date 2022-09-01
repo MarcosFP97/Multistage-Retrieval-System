@@ -1,0 +1,4 @@
+pyserini == 0.13.0 
+nltk
+argparse
+pandas>=1.1.5

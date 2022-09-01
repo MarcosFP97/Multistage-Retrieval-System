@@ -1,0 +1,150 @@
+Query: Do tea bags help to clot blood in pulled teeth?
+==========Result #1==========
+URL: https://www.fairview.org/Patient-Education/Articles/English/a/f/t/e/r/After_a_Tooth_Extraction_Caring_for_Your_Mouth_84678
+Query: Can crystals heal?
+==========Result #1==========
+URL: https://www.healthline.com/health/healing-crystals-what-they-can-do-and-what-they-cant
+Query: Can collagen supplements cure osteoarthritis?
+==========Result #1==========
+URL: https://www.verywellhealth.com/do-collagen-supplements-help-arthritis-5101585
+Query: Can cell phones cause cancer?
+==========Result #1==========
+URL: https://www.cancer.org/healthy/cancer-causes/radiation-exposure/cellular-phones.html
+Query: Can you use WD-40 for arthritis?
+==========Result #1==========
+URL: https://pharmacist.therapeuticresearch.com/Content/Articles/PL/2006/May/WD-40-acts-as-a-joint-lubricant-and-pain-reliever-in-arthritis
+Query: Can mosquito bites make you sick?
+==========Result #1==========
+URL: https://www.mayoclinic.org/diseases-conditions/mosquito-bites/symptoms-causes/syc-20375310
+Query: Can cancer be inherited?
+==========Result #1==========
+URL: https://www.cancer.org/healthy/cancer-causes/genetics.html
+Query: Are vaccines linked to autism?
+==========Result #1==========
+URL: https://www.cdc.gov/vaccinesafety/concerns/autism.html
+Query: Can baking soda help to cure cancer?
+==========Result #1==========
+URL: https://moffitt.org/endeavor/archive/can-baking-soda-help-fight-cancer/
+Query: Are squats bad for knees?
+==========Result #1==========
+URL: https://www.verywellhealth.com/are-squats-bad-for-knees-5094721
+Query: Do ACE inhibitors typically cause erectile dysfunction?
+==========Result #1==========
+URL: https://www.goodrx.com/lisinopril/does-lisinopril-cause-erectile-dysfunction
+Query: Is morphine addictive?
+==========Result #1==========
+URL: https://www.webmd.com/connect-to-care/addiction-treatment-recovery/prescription/why-is-morphine-addictive
+Query: Can fruit juice increase the risk of diabetes?
+==========Result #1==========
+URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3969361/
+Query: Do magnetic wrist straps help with arthritis?
+==========Result #1==========
+URL: https://www.arthritis.org/health-wellness/treatment/complementary-therapies/natural-therapies/magnets,-copper-don-t-ease-arthritis-pain
+Query: Are sit ups bad for you?
+==========Result #1==========
+URL: https://www.issaonline.com/blog/index.cfm/2016/are-sit-ups-bad-for-you-the-us-military-seems-to-think-so
+Query: Can a speech problem be caused by right handed person being forced to left hand?
+==========Result #1==========
+URL: https://www.betterhealth.vic.gov.au/health/healthyliving/left-handedness
+Query: Are there health benefits to drinking your own urine?
+==========Result #1==========
+URL: https://www.webmd.com/diet/health-benefits-drinking-urine
+Query: Is pink salt good for you?
+==========Result #1==========
+URL: https://www.webmd.com/diet/himalayan-salt-good-for-you
+Query: Can massage get rid of cellulite?
+==========Result #1==========
+URL: https://www.healthline.com/health/how-to-get-rid-of-cellulite-on-thighs
+Query: Can fish oil improve your cholesterol?
+==========Result #1==========
+URL: https://www.mayoclinic.org/drugs-supplements-fish-oil/art-20364810
+Query: Can you become addicted to weed?
+==========Result #1==========
+URL: https://nida.nih.gov/publications/research-reports/marijuana/marijuana-addictive
+Query: Can vegan diets be healthy?
+==========Result #1==========
+URL: https://www.tuftsmedicalcenter.org/news-events-media/news/web/20-in-2020/vegan-is-it-healthier
+Query: Is hydroquinone banned in Europe?
+==========Result #1==========
+URL: https://www.byrdie.com/banned-ingredients-europe
+Query: Do men get UTI infections?
+==========Result #1==========
+URL: https://www.webmd.com/men/urinary-tract-infection-in-men
+Query: Are carrots good for your eyes?
+==========Result #1==========
+URL: https://www.healthline.com/nutrition/are-carrots-good-for-your-eyes
+Query: Is methanol poisonous?
+==========Result #1==========
+URL: https://www.ncbi.nlm.nih.gov/books/NBK482121/
+Query: Can an MRI harm my baby?
+==========Result #1==========
+URL: https://www.radiologyinfo.org/en/info/safety-hiw_10
+Query: Can exercise lower cholesterol?
+==========Result #1==========
+URL: https://health.clevelandclinic.org/does-exercise-lower-cholesterol/
+Query: Can chewing gum help lose weight?
+==========Result #1==========
+URL: https://www.webmd.com/diet/obesity/features/diet-myth-or-truth-chewing-gum-for-weight-loss
+Query: Can sunglasses help prevent cataracts?
+==========Result #1==========
+URL: https://www.everydayhealth.com/cataracts/prevention/
+Query: Did AIDS come from chimps?
+==========Result #1==========
+URL: https://www.nationalgeographic.com/science/article/news-hiv-aids-monkeys-chimps-origin
+Query: Is too much water bad for you?
+==========Result #1==========
+URL: https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/in-depth/water/art-20044256
+Query: Can HIV be transmitted through sweat?
+==========Result #1==========
+URL: https://www.cdc.gov/hiv/basics/hiv-transmission/not-transmitted.html
+Query: Do Himalayan salt lamps have health benefits?
+==========Result #1==========
+URL: https://www.webmd.com/balance/himalayan-salt-lamps
+Query: Can a woman get pregnant while breastfeeding?
+==========Result #1==========
+URL: https://www.whattoexpect.com/getting-pregnant/ovulation/can-you-get-pregnant-while-breastfeeding/
+Query: Can statins cause permanent cognitive impairment?
+==========Result #1==========
+URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5830056/
+Query: Does Vitamin C prevent colds?
+==========Result #1==========
+URL: https://www.ncbi.nlm.nih.gov/books/NBK279544/
+Query: Can coffee help you lose weight?
+==========Result #1==========
+URL: https://www.wearelittles.com/blogs/stories/10-ways-coffee-can-help-you-lose-weight
+Query: Does drinking lemon water help with belly fat?
+==========Result #1==========
+URL: https://www.healthline.com/nutrition/lemon-water-for-weight-loss
+Query: Does deli meat increase your risk of colon cancer?
+==========Result #1==========
+URL: https://www.mdanderson.org/publications/focused-on-health/eat-less-processed-meat.h11-1590624.html
+Query: Are skin tags contagious?
+==========Result #1==========
+URL: https://www.epiphanydermatology.com/blog/how-to-tell-the-difference-between-skin-tags-moles-warts/
+Query: Can oil pulling heal cavities?
+==========Result #1==========
+URL: https://www.altimadental.com/blog-tooth-decay-cavities/
+Query: Does a high fiber diet help with hemorrhoids?
+==========Result #1==========
+URL: https://www.medicalnewstoday.com/articles/hemorrhoids-high-fiber-diet
+Query: Can grapefruit interfere with medication?
+==========Result #1==========
+URL: https://www.fda.gov/consumers/consumer-updates/grapefruit-juice-and-some-drugs-dont-mix
+Query: Can vape pens be harmful?
+==========Result #1==========
+URL: https://www.hopkinsmedicine.org/health/wellness-and-prevention/5-truths-you-need-to-know-about-vaping
+Query: Do bananas increase the risk of diabetes?
+==========Result #1==========
+URL: https://www.medicalnewstoday.com/articles/319992
+Query: Is wifi harmful for health?
+==========Result #1==========
+URL: https://www.healthline.com/health/does-wifi-cause-cancer
+Query: Does drinking apple cider vinegar help lose weight?
+==========Result #1==========
+URL: https://www.mayoclinic.org/healthy-lifestyle/weight-loss/expert-answers/apple-cider-vinegar-for-weight-loss/faq-20058394
+Query: Does ginger help with nausea?
+==========Result #1==========
+URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4818021/
+Query: Can a cold sore cause genital herpes?
+==========Result #1==========
+URL: https://www.cdc.gov/std/herpes/stdfact-herpes.htm

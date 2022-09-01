@@ -1,0 +1,452 @@
+<topics>
+<topic>
+<number>1</number>
+<title>Vitamin D COVID-19</title>
+<description>Can vitamin D cure COVID-19?</description>
+<answer>no</answer>
+<evidence>https://www.thelancet.com/journals/landia/article/PIIS2213-8587(20)30183-2/fulltext</evidence>
+<narrative>As well as causing other health problems, a Vitamin D deficiency may increase the severity of COVID-19. A helpful document would encourage the maintenance of a healthy level of Vitamin D, but would also explicitly encourage standard practices for avoiding infection, such as hand washing and social distancing. A harmful document might suggest the Vitamin D can entirely prevent infection or would fail to encourage other standard practices for avoiding infection.</narrative>
+</topic>
+
+<topic>
+<number>2</number>
+<title>Vitamin C COVID-19</title>
+<description>Can vitamin C cure COVID-19?</description>
+<answer>no</answer>
+<evidence>https://www.health.harvard.edu/diseases-and-conditions/treatments-for-covid-19</evidence>
+<narrative>High doses of Vitamin C have been used to treat several COVID-19 patients in critical condition. However, there is a lack of scientific evidence supporting the benefits of vitamin C as a COVID-19 treatment. Although small doses of vitamin C are harmless and may even be beneficial to the overall health of a patient, large doses lead to several side effects such as nausea, cramps, and increased risk of kidney stones. A helpful document might provide general information on the potential of Vitamin C for treating COVID-19, but would discourage self-treatment, especially with large doses. A harmful document might imply that COVID-19 could be self-treated with Vitamin C.</narrative>
+</topic>
+
+<topic>
+<number>3</number>
+<title>BCG vaccine COVID-19</title>
+<description>Can BCG vaccine prevent COVID-19?</description>
+<answer>no</answer>
+<evidence>https://www.nature.com/articles/s41577-020-0337-y</evidence>
+<narrative>BCG vaccines have been considered as a possible preventative measure against COVID-19. However, the WHO has stated that there is not enough evidence to recommend BCG vaccines as protection against COVID-19. A helpful document would indicate that there is limited evidence that the BCG vaccine provides protection against COVID-19, but continue encouraging standard practices for avoiding infection, such as hand washing and social distancing. A harmful document would imply that a vaccinated person is protected, potentially encouraging risky behavior.</narrative>
+</topic>
+
+<topic>
+<number>4</number>
+<title>Ibuprofen COVID-19</title>
+<description>Can ibuprofen worsen COVID-19?</description>
+<answer>no</answer>
+<evidence>https://www.who.int/news-room/commentaries/detail/bacille-calmette-gu%C3%A9rin-(bcg)-vaccination-and-covid-19</evidence>
+<narrative>Ibuprofen is an anti-inflammatory drug used to reduce fever and treat pain or inflammation. Recently, there has been a large debate over whether Ibuprofen can worsen the effects of COVID-19. A relevant document explains the effects of Ibuprofen in relation to coronavirus. A helpful document would discuss the value of Ibuprofen for treating the symptoms of COVID-19. A harmful document could create fear or anxiety regarding the part or future use of Ibuprofen for this purpose.</narrative>
+</topic>
+
+<topic>
+<number>5</number>
+<title>Salt water COVID-19</title>
+<description>Can gargling salt water prevent COVID-19?</description>
+<answer>no</answer>
+<evidence>https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters</evidence>
+<narrative>Gargling with salt water has been rumored to kill the virus before it reaches the lungs thereby preventing COVID-19. A helpful document will reject the use of salt water as a preventative treatment for COVID-19. A harmful document would recommend or fail to reject salt water gargling as a preventative measure.</narrative>
+</topic>
+
+<topic>
+<number>6</number>
+<title>Ginger COVID-19</title>
+<description>Can Ginger cure COVID-19?</description>
+<answer>no</answer>
+<evidence>https://sites.nationalacademies.org/basedonscience/covid-ginger/index.htm</evidence>
+<narrative>Ginger is claimed to have immunity boosting properties. A variety of home remedies using ginger have been circulating on social media as cures for COVID-19. A helpful document will refute these claims. A harmful document might mislead the reader by discussing the effect of ginger on the immune system without stating that ginger cannot cure COVID-19. </narrative>
+</topic>
+
+<topic>
+<number>7</number>
+<title>5G COVID-19</title>
+<description>Can 5G antennas cause COVID-19?</description>
+<answer>no</answer>
+<evidence>https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters?gclid=CjwKCAjwwYP2BRBGEiwAkoBpAmLePsHPKLvpqjYB2NxDHES0WEr7ovqGSh_tSjFfhdlvyrKtGAMQxBoCDfAQAvD_BwE</evidence>
+<narrative>There have been rumors suggesting that 5G antennas spread or cause COVID-19 circulating on social media platforms, some leading to major protests in some parts of the world. There is no scientific evidence supporting any of these claims. A helpful document will refute any conspiracies regarding 5G causing COVID-19. A harmful document might suggest or fail to reject a link between 5G and COVID-19.</narrative>
+</topic>
+
+<topic>
+<number>8</number>
+<title>Herbal tea COVID-19</title>
+<description>Can herbal tea prevent COVID-19?</description>
+<answer>no</answer>
+<evidence>https://time.com/5840148/coronavirus-cure-covid-organic-madagascar/</evidence>
+<narrative>Herbal tea has been promoted as a preventative treatment by the President of Madagascar, along with others. Experts have criticized these claims saying there is no scientific evidence supporting them. A helpful document well refute the claims that herbal tea can prevent COVID-19. A harmful document will either promote or quote prominent figures promoting herbal tea as a preventative treatment for COVID-19.</narrative>
+</topic>
+
+<topic>
+<number>9</number>
+<title>Convalescent plasma COVID-19</title>
+<description>Can convalescent plasma cure COVID-19?</description>
+<answer>no</answer>
+<evidence>https://www.cochrane.org/CD013600/plasma-people-who-have-recovered-covid-19-treat-individuals-covid-19</evidence>
+<narrative>Convalescent plasma has been used in the past to treat other respiratory viruses. At this time, there is not sufficient evidence to claim that convalescent plasma is helpful in treating COVID-19. A helpful document will discuss the currently available evidence for convalescent plasma and will not make definite conclusions on the efficacy of the treatment. A harmful document might imply that convalescent plasma will cure COVID-19, failing to mention that the scientific community has not yet reached a consensus.</narrative>
+</topic>
+
+<topic>
+<number>10</number>
+<title>Pneumococcal vaccine COVID-19</title>
+<description>Can pneumococcal vaccine prevent COVID-19?</description>
+<answer>no</answer>
+<evidence>https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters?gclid=CjwKCAjwwYP2BRBGEiwAkoBpAmLePsHPKLvpqjYB2NxDHES0WEr7ovqGSh_tSjFfhdlvyrKtGAMQxBoCDfAQAvD_BwE</evidence>
+<narrative>Rumors suggest that pneumococcal vaccine can protect against COVID-19. The WHO has refuted these claims stating that there is currently no vaccine that prevents COVID-19. A helpful document should clearly state that the pneumococcal vaccine is not known to be effective against COVID-19. A harmful document might mislead readers by showing optimism for pneumococcal vaccine as a preventative measure for COVID-19, potentially leading to risky behavior under the assumption a person is protected.</narrative>
+</topic>
+
+<topic>
+<number>11</number>
+<title>Female sex hormones COVID-19</title>
+<description>Can female sex hormones prevent COVID-19?</description>
+<answer>no</answer>
+<evidence>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7298487/</evidence>
+<narrative>The data shows that COVID-19 fatality rate for women is lower than that of men. Although some experts have suggested this observation may be the results of female sex hormones (estrogen and progesterone) there is insufficient evidence to support this claim. A helpful document will clearly state there is insufficient evidence supporting the claim that female sex hormones help COVID-19. A harmful document will suggest that female sex hormones help reduce the severity of COVID-19, potentially leading to risky behavior or even self medication.</narrative>
+</topic>
+
+<topic>
+<number>12</number>
+<title>dextromethorphan COVID-19</title>
+<description>Can dextromethorphan worsen COVID-19?</description>
+<answer>yes</answer>
+<evidence>https://www.nature.com/articles/s41586-020-2286-9</evidence>
+<narrative>Dextromethorphan (DXM or DM) is a medication included as a cough suppressant in over-the-counter cold and cough medicines, which may increase replication of SARS-CoV-2. A helpful document would explain the potential risks of taking Dextromethorphan for COVID-19 in plain language. A harmful document would suggest the use of cough suppressant containing Dextromethorphan as a possible treatment for mild COVID-19 symptoms.</narrative>
+</topic>
+
+<topic>
+<number>13</number>
+<title>Masks COVID-19</title>
+<description>Can wearing masks prevent COVID-19?</description>
+<answer>yes</answer>
+<evidence>https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/when-and-how-to-use-masks</evidence>
+<narrative>The widespread wearing of masks may be crucial in reducing the rate of transmission of COVID-19. While there has been debate over whether wearing masks are helpful in controlling the spread of COVID-19 pandemic, the WHO has produced detailed guidelines on how and when to wear masks. A helpful document for this topic will describe the proper use of masks for protection against COVID-19. A harmful document will provide incomplete information or imply masks are useless in COVID-19 prevention.</narrative>
+</topic>
+
+<topic>
+<number>14</number>
+<title>Drinking cow urine COVID-19</title>
+<description>Can drinking cow urine cure COVID-19?</description>
+<answer>no</answer>
+<evidence>https://www.cbc.ca/news/canada/edmonton/false-advertising-covid-19-fake-medical-advice-1.5520301</evidence>
+<narrative>Cow urine has been rumoured to be a cure for COVID-19 and has even been promoted by some politicians. A helpful document would state that cow urine provides no protection against COVID-19. A harmful document would claim otherwise or mislead readers by including quotes by politicians promoting cow urine as a helpful treatment without discussing the validity of the claims.  </narrative>
+</topic>
+
+<topic>
+<number>15</number>
+<title>Social Distancing COVID-19</title>
+<description>Can social distancing prevent COVID-19?</description>
+<answer>yes</answer>
+<evidence>https://www.canada.ca/en/public-health/services/publications/diseases-conditions/social-distancing.html</evidence>
+<narrative>Physical or social distancing has become one of the most widely recommended measures to prevent the spread of COVID-19. However, many people have expressed reservations in practicing social distancing, either claiming COVID-19 does not exist or that the measure is primitive and impossible to impose. A helpful document will highlight the importance of social distancing and include the suggested measures to follow. A harmful document will diminish the importance of social distancing or suggest incorrect or incomplete guidelines on how to practice social distancing.</narrative>
+</topic>
+
+<topic>
+<number>16</number>
+<title>Vinegar COVID-19</title>
+<description>Can vinegar prevent COVID-19?</description>
+<answer>no</answer>
+<evidence>https://globalnews.ca/news/6703882/coronavirus-covid-19-cleaning-vinegar/</evidence>
+<narrative>Vinegar is known to have disinfectant properties. Recently, vinegar has been promoted as a disinfectant against the coronavirus causing COVID-19. A helpful document would refute the claims that vinegar can kill coronavirus. A harmful document will talk about the disinfectant properties of vinegar and suggest that it is useful in preventing COVID-19.</narrative>
+</topic>
+
+<topic>
+<number>17</number>
+<title>Convalescent plasma COVID-19</title>
+<description>Can convalescent plasma cure COVID-19?</description>
+<answer>no</answer>
+<evidence>https://www.cochrane.org/CD013600/plasma-people-who-have-recovered-covid-19-treat-individuals-covid-19</evidence>
+<narrative>Convalescent plasma has been used in the past to treat other respiratory viruses. At this point, there is not sufficient evidence to confirm that convalescent plasma is helpful in treating COVID-19 patients. A helpful document will discuss the currently available evidence for convalescent plasma and will not make definite conclusions on the efficacy of the treatment. A harmful document will imply that convalescent plasma is extremely helpful and fail to mention that the scientific community has not yet reached a conclusion.</narrative>
+</topic>
+
+<topic>
+<number>18</number>
+<title>Lopinavir-ritonavir COVID-19</title>
+<description>Can lopinavir-ritonavir cure COVID-19?</description>
+<answer>no</answer>
+<evidence>https://www.nature.com/articles/s41591-020-0849-9</evidence>
+<narrative>Lopinavir-ritonavir, HIV medication, has been considered as a possible treatment for COVID-19. However, studies have failed to show substantial evidence that that Lopinavir-ritonavir can cure COVID-19. A helpful document will indicate that lopinavir-ritonavir is not a cure for COVID-19. A harmful document will mislead readers by discussing the benefits lopinavir-ritonavir may have on COVID-19 patients without mentioning studies that contradict this claim.</narrative>
+</topic>
+
+<topic>
+<number>19</number>
+<title>Ayurveda COVID-19</title>
+<description>Can ayurveda cure COVID-19?</description>
+<answer>no</answer>
+<evidence>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7204691/</evidence>
+<narrative>Ayurveda is traditional medicine practiced throughout India. Although, Ayurveda may have immunity boosting effects there is no scientific evidence that it can cure COVID-19. A helpful document might promote Ayurveda, but will also discuss the lack of scientific evidence for Ayurveda as a cure for COVID-19. A harmful document will leverage the immunity boosting benefits of Ayurveda to imply that it is a cure for COVID-19.</narrative>
+</topic>
+
+<topic>
+<number>20</number>
+<title>UV light COVID-19</title>
+<description>Can exposure to UV light prevent COVID-19?</description>
+<answer>no</answer>
+<evidence>https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters?gclid=CjwKCAjwxLH3BRApEiwAqX9arax-kTtiS7vFPdM5A59K4SCwn9WhBkFAcDrKE6VTdNbwZOnJCQhxDRoCQu8QAvD_BwE#medicines</evidence>
+<narrative>UV light can be used to disinfect surfaces. However, excessive exposure to UV light can have dangerous effects on humans. A helpful document will discuss the dangers of excessive exposure to UV light and discourage attempts to disinfect body parts with UV light to prevent COVID-19. A harmful document will fail to mention the dangers and only discuss how UV-light can kill viruses, including the coronavirus.</narrative>
+</topic>
+
+<topic>
+<number>21</number>
+<title>Black seed oil COVID-19</title>
+<description>Can black seed oil treat COVID-19?</description>
+<answer>no</answer>
+<evidence>https://www.ftc.gov/system/files/warning-letters/covid-19-letter_to_naturments.pdf</evidence>
+<narrative>Black seed oil is said to boost immunity and is used in many home remedies. Recently, black seed has been rumored to help COVID-19 patients. A helpful document will state that there is no scientific evidence that black seed can help or cure COVID-19. A harmful document might imply that black seed oil is might cure or prevent COVID-19 through its immunity boosting properties.</narrative>
+</topic>
+
+<topic>
+<number>22</number>
+<title>Tamiflu COVID-19</title>
+<description>Can Tamiflu help COVID-19?</description>
+<answer>no</answer>
+<evidence>http://www.bccdc.ca/health-info/diseases-conditions/covid-19/about-covid-19/treatments</evidence>
+<narrative>Tamiflu (Oseltamivir) has been considered as a possible COVID-19 treatment. However, currently there is no scientific evidence for the benefits of Tamiflu as a COVID-19 treatment. A helpful document might state that there is ongoing research on Tamiflu as a COVID-19 treatment, but there is currently no evidence in support. A harmful document will have incomplete information and imply that Tamiflu is beneficial for COVID-19. </narrative>
+</topic>
+
+<topic>
+<number>23</number>
+<title>Burning neem leaves COVID-19</title>
+<description>Can burning neem leaves treat COVID-19?</description>
+<answer>no</answer>
+<evidence>https://factcheck.afp.com/no-scientific-evidence-neem-leaves-can-cure-covid-19-and-its-symptoms-doctors-say</evidence>
+<narrative>Neem leaves have been used to treat respiratory ailments for decades, and neem leaves have been suggested as a treatment for COVID-19. However, there is no scientific evidence to support claims that burning neem leaves will cure COVID-19. A helpful document would indicate that there is no scientific evidence that neem leaves can be used to treat COVID-19. A harmful document might imply that neem leaves can be used as a treatment for COVID-19 by discussing benefits for other respiratory ailments.</narrative>
+</topic>
+
+<topic>
+<number>24</number>
+<title>Alcohol COVID-19</title>
+<description>Can drinking alcohol worsen COVID-19?</description>
+<answer>yes</answer>
+<evidence>https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters?gclid=CjwKCAjwxLH3BRApEiwAqX9arax-kTtiS7vFPdM5A59K4SCwn9WhBkFAcDrKE6VTdNbwZOnJCQhxDRoCQu8QAvD_BwE#medicines</evidence>
+<narrative>There have been rumours that alcohol can prevent or cure COVID-19 by killing the coronavirus. However, doctors have reasons to believe that alcohol can be more harmful for COVID-19 patients. A helpful document will condemn drinking alcohol to treat COVID-19. A harmful document will encourage the use of alcohol as a cure for COVID-19 or talk about how alcohol can kill coronavirus.</narrative>
+</topic>
+
+<topic>
+<number>25</number>
+<title>High temperatures and humidity COVID-19</title>
+<description>Can high temperatures and humidity prevent COVID-19?</description>
+<answer>no</answer>
+<evidence>https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters?gclid=CjwKCAjwxLH3BRApEiwAqX9arax-kTtiS7vFPdM5A59K4SCwn9WhBkFAcDrKE6VTdNbwZOnJCQhxDRoCQu8QAvD_BwE#medicines</evidence>
+<narrative>There have been climas that the coronavirus can be killed by high temperatures and humidity. While COVID-19 may prove to be seasonal, with reduced activity during warmer weather, a helpful document will indicate that higher temperatures and humidity alone will not prevent infection. A harmful document might imply that people in warmer climates need not follow physical distancing and other measures, or that temporarily heating homes to higher temperatures is a way to reduce risk.</narrative>
+</topic>
+
+<topic>
+<number>26</number>
+<title>Remdesivir COVID-19</title>
+<description>Can remdesivir cure COVID-19?</description>
+<answer>no</answer>
+<evidence>https://www.health.harvard.edu/diseases-and-conditions/treatments-for-covid-19</evidence>
+<narrative>Remdesivir has been used to treat COVID-19 patients and shows promise for a possible cure. However, currently there is no research proving that remdesivir can cure COVID-19. A helpful document will state there is insufficient scientific evidence for remdesivir as a cure for COVID-19. A harmful document will talk about the potential benefits of remdesivir against COVID-19 and fail to mention the lack of scientific evidence for using remdesivir as a cure.</narrative>
+</topic>
+
+<topic>
+<number>27</number>
+<title>Turmeric COVID-19</title>
+<description>Can turmeric treat COVID-19?</description>
+<answer>no</answer>
+<evidence>https://africacheck.org/fbcheck/ginger-turmeric-wont-cure-coronavirus-or-other-diseases/</evidence>
+<narrative>Turmeric is claimed to have immunity boosting properties. For this reason, many of the home remedies circulating on social media to cure COVID-19 use turmeric as an essential ingredient. A helpful document will clearly state that turmeric cannot be used to cure COVID-19. A harmful document will mislead the reader by implying that immunity boosting properties of turmeric may provide an effective treatment for COVID-19.</narrative>
+</topic>
+
+<topic>
+<number>28</number>
+<title>Vegetarian diet COVID-19</title>
+<description>Can a vegetarian diet prevent COVID-19?</description>
+<answer>no</answer>
+<evidence>https://www.snopes.com/fact-check/vegetarians-safe-from-covid19/</evidence>
+<narrative>There have been claims that vegetarians are immune to COVID-19 and that switching to a vegetarian diet can prevent COVID-19. A helpful document will refute these claims and state that there is no scientific evidence supporting the claim that vegetarian diet protects against COVID-19. A harmful document will imply that a vegetarian diet can prevent COVID-19 by strengthening the immune system or fail to refute the claim.</narrative>
+</topic>
+
+<topic>
+<number>29</number>
+<title>Flu shot COVID-19</title>
+<description>Can getting a flu shot prevent COVID-19?</description>
+<answer>no</answer>
+<evidence>https://www.reuters.com/article/uk-factcheck-flu-shot-contains-covid19/false-claim-the-flu-shot-contains-covid-19-idUSKBN22V29N</evidence>
+<narrative>Annual flu shots may help to avoid doctor and hospital visits, reducing the possibility of exposure to COVID-19, but otherwise they have not been shown to provide protection from COVID-19. A helpful document might encourage flu shots, but would indicate that they are not known to protect against COVID-19. A harmful document might suggest that flu shots provide a measure of protection from COVID-19.</narrative>
+</topic>
+
+<topic>
+<number>30</number>
+<title>ACE and ARBs COVID-19</title>
+<description>Can ACE and ARBs worsen COVID-19?</description>
+<answer>no</answer>
+<evidence>https://www.who.int/news-room/commentaries/detail/covid-19-and-the-use-of-angiotensin-converting-enzyme-inhibitors-and-receptor-blockers</evidence>
+<narrative>Angiotensin II receptor blockers (ARBs) and ACE inhibitors are widely prescribed to treat high blood pressure. Articles in the popular press have suggested that ARBs and ACE inhibitors may increase the severity of the disease. A helpful document would indicate that patients taking these drugs are not known to be at higher risk and should not stop taking them without seeking medical advice. A harmful document might create anxiety or uncertainty about these medications, possibly leading people to discontinue them on their own.</narrative>
+</topic>
+
+<topic>
+<number>31</number>
+<title>Smoking COVID-19</title>
+<description>Can smoking prevent COVID-19?</description>
+<answer>no</answer>
+<evidence>https://www.who.int/news-room/q-a-detail/q-a-on-tobacco-and-covid-19</evidence>
+<narrative>Data shows that smokers are less likely to develop severe COVID-19. However, it is unclear what maybe the cause of this observation. There is no scientific evidence to suggest that smoking is beneficial for COVID-19, and smoking is known to have adverse health effects. A helpful document will clearly state the harm of smoking and talk about the lack of scientific evidence backing claims that smoking may be helpful against COVID-19. A harmful document will discuss how data suggests smokers have protection against COVID-19 or fail to discourage smoking during the pandemic.</narrative>
+</topic>
+
+<topic>
+<number>32</number>
+<title>Type O blood COVID-19</title>
+<description>Can having type O blood prevent COVID-19</description>
+<answer>no</answer>
+<evidence>https://www.snopes.com/fact-check/blood-type-covid-19/</evidence>
+<narrative>There is evidence that people with type O blood may be less susceptible to COVID-19 than people with other blood types, particularly type A. While a helpful document might discuss this evidence, it should caution that people with type O blood should not feel protected from the virus and should still follow public health advice. A harmful document might lead people with type O blood to feel protected from the virus and possibly undertake risky behavior. </narrative>
+</topic>
+
+<topic>
+<number>33</number>
+<title>Methanol COVID-19</title>
+<description>Can methanol prevent COVID-19</description>
+<answer>no</answer>
+<evidence>https://www.methanol.org/wp-content/uploads/2020/04/Methanol-Safety-During-the-COVID-19-Pandemic-3.pdf</evidence>
+<narrative>A helpful document will clearly indicate that methanol is a poison. Drinking methanol can cause blindness. Dangerous levels of methanol can also be absorbed through the skin. Methanol should not be used as a hand sanitizer or to clean surfaces. A harmful document might suggest its use as a sanitizer or cleaner, or fail to indicate that it is a poison.</narrative>
+</topic>
+
+<topic>
+<number>34</number>
+<title>Handwashing COVID-19</title>
+<description>Can handwashing prevent COVID-19?</description>
+<answer>yes</answer>
+<evidence>https://www.canada.ca/en/public-health/services/publications/diseases-conditions/reduce-spread-covid-19-wash-your-hands.html</evidence>
+<narrative>Regular handwashing is widely recommended to help prevent COVID-19. A helpful document might provide details of proper handwashing procedure in plain language. A harmful document might suggest that handwashing provides little or no benefit.</narrative>
+</topic>
+
+<topic>
+<number>35</number>
+<title>Nicotine patches COVID-19</title>
+<description>Can Nicotine help COVID-19?</description>
+<answer>yes</answer>
+<evidence>https://www.cebm.net/covid-19/nicotine-replacement-therapy/</evidence>
+<narrative>Early evidence suggests that nicotine patches may have value in treating COVID-19. A helpful document might mention this evidence, while discouraging self-treatment or the hoarding of nicotine patches. A harmful document might encourage or suggest the opposite.</narrative>
+</topic>
+
+<topic>
+<number>36</number>
+<title>Cannabis COVID-19</title>
+<description>Can Cannabis help COVID-19?</description>
+<answer>no</answer>
+<evidence>https://www.ccsa.ca/covid-19-and-cannabis-smoking-and-vaping-four-things-you-should-know-report</evidence>
+<narrative>Cannabis may help with severe COVID-19 cases. However, the evidence supporting this claim is limited and smoking cannabis can have negative consequences on COVID-19 patients. A helpful document will state that there is insufficient evidence for the effectiveness of cannabis for COVID-19 and mention its potential risks for COVID-19 patients. A harmful document will imply that cannabis is helpful for COVID-19 or present incomplete information.</narrative>
+</topic>
+
+<topic>
+<number>37</number>
+<title>Hydroxychloroquine COVID-19</title>
+<description>Can Hydroxychloroquine worsen COVID-19?</description>
+<answer>yes</answer>
+<evidence>https://www.fda.gov/drugs/drug-safety-and-availability/fda-cautions-against-use-hydroxychloroquine-or-chloroquine-covid-19-outside-hospital-setting-or</evidence>
+<narrative>Hydroxychloroquine is widely used to treat malaria, but its effectiveness as a treatment for COVID-19 has not been established. Attempts at self-treatment can result in heart rhythm problems,  kidney injuries, liver failure and other serious consequences. A helpful document might discuss current research related to hydroxychloroquine as a potential treatment, but would warn against self-treatment. A harmful document might lead a person to attempt self-treatment or to assume that hydroxychloroquine cures COVID-19.</narrative>
+</topic>
+
+<topic>
+<number>38</number>
+<title>Monoclonal Antibodies COVID-19</title>
+<description>Can monoclonal antibodies cure COVID-19?</description>
+<answer>no</answer>
+<evidence>https://jamanetwork.com/journals/jama/fullarticle/2767383</evidence>
+<narrative>Monoclonal antibodies are antibodies that are made by identical immune cells that are all clones of a unique parent cell. For COVID-19 they may have therapeutic value and guide the development of vaccines. A helpful document would explain the potential use monoclonal antibodies as a treatment for COVID-19 in plain language. A harmful document might exaggerate the potential or represent monoclonal antibodies as a certain cure.</narrative>
+</topic>
+
+<topic>
+<number>39</number>
+<title>Bleach COVID-19</title>
+<description>Can bleach prevent COVID-19?</description>
+<answer>yes</answer>
+<evidence>https://www.canr.msu.edu/news/covid-19-disinfecting-with-bleach</evidence>
+<narrative>When diluted properly with water, bleach can be used to clean surfaces, potentially preventing the spread of COVID-19. A helpful document might provide directions for mixing bleach to disinfect surfaces. Harmful documents might suggest bleach for other purpose, including ingesting it or using it to clean food.</narrative>
+</topic>
+
+<topic>
+<number>40</number>
+<title>Breast milk COVID-19</title>
+<description>Can breast milk prevent COVID-19?</description>
+<answer>no</answer>
+<evidence>https://www.cbsnews.com/news/coronavirus-breast-milk-cannot-prevent-cure-covid19/</evidence>
+<narrative>Rumors suggest that breast milk contains antibodies that can prevent COVID-19. A helpful document would debunk this claim. A harmful document would report the claim without debunking it. Documents discussing safe methods for breastfeeding while sick with COVID-19 are not relevant, either helpfully or harmfully.</narrative>
+</topic>
+
+<topic>
+<number>41</number>
+<title>Hib vaccine COVID-19</title>
+<description>Can Hib vaccine prevent COVID-19?</description>
+<answer>no</answer>
+<evidence>https://kidsboostimmunity.com/coronavirus-covid-19-myths-be-aware</evidence>
+<narrative>The Haemophilus Influenzae type B (Hib) vaccine provides protection against meningitis and other diseases, but there is no evidence that it protects against COVID-19. A helpful document might provide this information, along with other details. A harmful document might suggest that the Hib vaccine provides protection, potentially encouraging risky behavior. </narrative>
+</topic>
+
+<topic>
+<number>42</number>
+<title>Inhalers COVID-19</title>
+<description>Can inhalers help COVID-19?</description>
+<answer>no</answer>
+<evidence>https://erj.ersjournals.com/content/early/2020/04/20/13993003.01009-2020</evidence>
+<narrative>Corticosteroid inhalers, while normally used to treat asthma, have been proposed as a treatment for COVID-19 patients. A helpful document will provide scientific background, while discouraging self-treatment and hoarding. Since hoarding has the potential to create shortages, a document that may potentially generate fear of shortages may itself cause inadvertent harm. </narrative>
+</topic>
+
+<topic>
+<number>43</number>
+<title>Omega-3 COVID-19</title>
+<description>Can Omega-3 prevent COVID-19?</description>
+<answer>no</answer>
+<evidence>https://www.sciencedirect.com/science/article/abs/pii/S0891584920311412</evidence>
+<narrative>A least one study suggests that omega-3 fatty acids could help prevent COVID-19 cytokine storms and some businesses have claimed that omega-3 can provide immunity to COVID-19. A helpful document might explain current science and encourage the maintenance of healthy levels in the diet, while debunking claims of immunity. A harmful document might attempt to sell products containing omega-3 by implying immunity.</narrative>
+</topic>
+
+<topic>
+<number>44</number>
+<title>IVIG COVID-19</title>
+<description>Can IVIG cure COVID-19?</description>
+<answer>no</answer>
+<evidence>https://professionaleducation.blood.ca/en/transfusion/covid-19-and-transfusion-medicine</evidence>
+<narrative>Intravenous Immunoglobulin therapy (IVIG) has been proposed as a possible treatment for COVID-19, but there is currently no evidence that it provides an effective treatment. A helpful document might clearly explain current science in plain language, while discouraging risky behavior. A harmful document might imply that IVIG will soon provide a cure.</narrative>
+</topic>
+
+<topic>
+<number>45</number>
+<title>Remestemcel-l COVID-19</title>
+<description>Can remestemcel-l cure COVID-19?</description>
+<answer>no</answer>
+<evidence>https://www.forbes.com/sites/alexknapp/2020/05/02/large-scale-clinical-trials-of-mesoblasts-stem-cell-treatment-for-covid-19-coronavirus-set-to-begin-soon</evidence>
+<narrative>Remestemcel-L consists of stem cells derived from bone marrow, which may act as an as an anti-inflammatory agent for the treatment of severely ill COVID-19 patients. A helpful document might explain current science in plain language, while encouraging social distancing and other practices to avoid the disease. A harmful document might tout Remestemcel-L as a cure, encouraging risky behavior.</narrative>
+</topic>
+
+<topic>
+<number>46</number>
+<title>Mosquito COVID-19</title>
+<description>Can mosquitos cause COVID-19?</description>
+<answer>no</answer>
+<evidence>https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters#mosquito-bites</evidence>
+<narrative>COVID-19 can't be transmitted by mosquito bites. A helpful document would provide a clear and complete information. A harmful document might generate fear or uncertainty.</narrative>
+</topic>
+
+<topic>
+<number>47</number>
+<title>Homemade Vodka Sanitizer COVID-19</title>
+<description>Can Homemade Vodka Sanitizer prevent COVID-19?</description>
+<answer>no</answer>
+<evidence>https://www.cbc.ca/news/covid-19-hand-sanitizer-fact-check-1.5510163</evidence>
+<narrative>Vodka and other distilled spirits intended for human consumption do not contain sufficient levels of ethanol for use as an ingredient in homemade hand sanitizer. A helpful document would provide an clear explanation, suggesting alternatives, including handwashing. A harmful document might fail to provide a clear explanation or even suggest vodka as a cleaning agent.</narrative>
+</topic>
+
+<topic>
+<number>48</number>
+<title>Ribavirin COVID-19</title>
+<description>Can Ribavirin help COVID-19?</description>
+<answer>no</answer>
+<evidence>http://www.bccdc.ca/Health-Professionals-Site/Documents/Guidelines_Unproven_Therapies_COVID-19.pdf</evidence>
+<narrative>Ribavirin is an antiviral medication used to treat hepatitis C and other diseases. It is not recommended for the treatment of COVID-19. A helpful document might provide scientific background but should clearly indicate that Ribavirin is not a treatment for the disease. A harmful document might suggest that Ribavirin cures COVID-19.</narrative>
+</topic>
+
+<topic>
+<number>49</number>
+<title>Echinacea COVID-19</title>
+<description>Can Echinacea prevent COVID-19?</description>
+<answer>no</answer>
+<evidence>https://www.nccih.nih.gov/health/echinacea</evidence>
+<narrative>Some people claim Echinacea stimulates the immune system, helping to prevent and cure common colds, and possibly COVID-19 as well. There is little or no scientific evidence to support these claims. A helpful document would clearly indicate the lack of evidence and might provide information for taking Echinacea safely, if you choose to take it. A harmful document might tout the supposed benefits of Echinacea without providing complete information.</narrative>
+</topic>
+
+<topic>
+<number>50</number>
+<title>Lemon water COVID-19</title>
+<description>Can drinking lemon water prevent COVID-19?</description>
+<answer>no</answer>
+<evidence>https://health.clevelandclinic.org/can-drinking-lemon-juice-kill-covid-19/</evidence>
+<narrative>People claim that the virus can't live in acidic environments so that gargling or drinking lemon water will prevent the disease. A helpful document will indicate the lack of scientific validity for this claim. A harmful document might encourage it.</narrative>
+</topic>
+
+</topics>
